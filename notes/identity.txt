@@ -1,0 +1,5 @@
+Full Name: YourName
+GitHub Username: kabandapacifique
+Date Started: 2026-10-13
+Auth Method: PAT
+One Git habit I want to improve: I want to make smaller and more frequent commits.
