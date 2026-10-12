@@ -1,0 +1,7 @@
+Student Name: Pacifique Kabanda
+
+What I check before committing:
+Before committing I run git status to see which files changed. I check that only the files I intend to commit are staged. I look for files that should not be shared, like secrets or logs. I also make sure my commit message clearly describes the change.
+
+What I am committing now and why:
+I am committing my notes about checking before I commit. I am committing it separately so this commit has one clear purpose.
