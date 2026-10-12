@@ -1,0 +1,13 @@
+Student Name: Pacifique Kabanda
+
+Patterns in my .gitignore:
+.DS_Store
+*.log
+temp/
+secret.env
+
+What git status showed about the ignored files:
+After I created .gitignore, git status listed only .gitignore as a new file to commit. The files secret.env, temp/temp_note.txt and practice/app.log did not appear in the list. When I ran git status --ignored, Git showed them under ignored files instead. This proved that my patterns were working and that Git was not tracking those files.
+
+Why committing secrets is dangerous:
+Anyone who can see the repository can read a secret that was committed, including passwords and API keys. Even if I delete the file later, the secret stays in the Git history and can still be found. Attackers scan public repositories for leaked keys, so a secret can be abused quickly. Keeping secrets out of Git protects my accounts, my money and my users.
