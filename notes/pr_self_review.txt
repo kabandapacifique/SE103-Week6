@@ -1,0 +1,13 @@
+Student Name: Pacifique Kabanda
+
+What changed:
+I added a section called "How I use Git carefully" to README.md. It lists four habits I practice. I also replaced a placeholder with my real name in the identity lines.
+
+How I verified the change:
+I ran cat README.md to read the file and confirm the new section was added correctly. I also ran git diff to check that only the lines I intended had changed.
+
+One possible improvement a reviewer might suggest:
+A reviewer might ask me to give a short example for each habit. They might also suggest making the habits more specific.
+
+Professional response I would give:
+I would thank the reviewer for the feedback and agree to add examples. Then I would make the change in a new small commit and ask them to review it again.
