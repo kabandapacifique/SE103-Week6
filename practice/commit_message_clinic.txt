@@ -1,0 +1,22 @@
+Student Name: Pacifique Kabanda
+
+Weak message 1: updates
+Improved message 1:
+update README with git habits section
+Why this is better:
+It names the file that changed and says what was added. A reader can understand the change without opening the commit.
+
+Weak message 2: final final
+Improved message 2:
+fix typo in project title
+Why this is better:
+It describes one specific fix instead of showing frustration or repetition. It is short and uses a clear action word.
+
+Weak message 3: stuff
+Improved message 3:
+add notes about checking git status
+Why this is better:
+It tells exactly what was added and why it matters. Anyone reading the history will know where to look.
+
+My personal commit message rule:
+My commit message must say what changed in a short sentence that starts with an action word like add, fix or update. I will keep each commit focused on one change so the message stays honest. I will never use vague words like stuff, updates or final.
