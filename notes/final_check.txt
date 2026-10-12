@@ -1,0 +1,12 @@
+Student Name: Pacifique Kabanda
+GitHub Username: kabandapacifique
+Repository: SE103-Week6
+Repository URL: https://github.com/kabandapacifique/SE103-Week6
+
+Git habits I demonstrated this week:
+I made small commits where each one had a single clear purpose. I ran git status before and after staging so I knew exactly what I was committing. I created a .gitignore and proved that secret.env, log files and the temp folder were not tracked. I rewrote weak commit messages into clear ones that start with an action word. I used a branch and a pull request to add my README changes and review them before merging.
+
+One mistake-prevention habit I will keep:
+I will always run git status and git diff before every commit. This helps me catch files I should not commit, such as secrets or logs. It also keeps my commits small and focused.
+
+All required files are on main: Yes
